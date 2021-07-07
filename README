@@ -1,0 +1,7 @@
+To Start project
+
+- Open bash Terminal
+- Navigate to project location at /home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363
+- write the command 'cmake .'
+- write the command 'make'
+- finally write the command './Project.out'

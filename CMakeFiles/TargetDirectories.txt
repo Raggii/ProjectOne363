@@ -1,0 +1,3 @@
+/home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363/CMakeFiles/edit_cache.dir
+/home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363/CMakeFiles/Project.out.dir

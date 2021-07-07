@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363/Project.cpp
+iostream
+-
+cmath
+-
+GL/freeglut.h
+-
+math.h
+-
+loadTGA.h
+/home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363/loadTGA.h
+
+/home/cosc/student/jaa140/Desktop/Cosc363/Project_one/prodone363/loadTGA.h
+iostream
+-
+fstream
+-
+GL/freeglut.h
+-
+
